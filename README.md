@@ -1,3 +1,3 @@
 g++ elgamal.cpp -lgmp
 
-多倍長のためにGMPをしよう
+多倍長のためにGMPを使用
